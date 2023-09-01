@@ -3,5 +3,5 @@
     <string name="logo_text">Calculator</string>
     <string name="hint_1">Enter the first number</string>
     <string name="hint_2">Enter the second number</string>
-
+    <string name="add_num">ADD NUMBERS</string>
 </resources>
