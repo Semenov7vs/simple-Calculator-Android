@@ -6,6 +6,7 @@ android {
     namespace 'com.semenov.calculator'
     compileSdk 33
 
+    
     defaultConfig {
         applicationId "com.semenov.calculator"
         minSdk 24
